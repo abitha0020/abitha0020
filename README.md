@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 <h2> :fire: My Stats </h2>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abitha0020" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abitha0020&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=abitha0020" alt="Anurag's GitHub stats">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abitha0020" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abitha0020&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Languages"></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=abitha0020" alt="Anurag's GitHub stats"></a>
 
