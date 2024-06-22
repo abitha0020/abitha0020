@@ -33,3 +33,5 @@
 </div>
 <h2> :fire: My Stats </h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abitha0020&theme=onedark" alt="GitHub Streak" /></a>
+  <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abitha0020&size_weight=0.5&count_weight=0.5" alt="Top Languages">
